@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5031],{5031:function(a,e,n){n.r(e);var u=n(85893);e.default=()=>(0,u.jsx)(u.Fragment,{children:"BanDoPhanBoMua"})}}]);

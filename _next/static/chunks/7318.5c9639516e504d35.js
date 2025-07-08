@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7318],{37318:function(e,t,n){var c=n(85893),l=n(96788);let r=e=>parseFloat(null==e?void 0:e.toFixed(2));t.Z=(e,t)=>{let n=r(e);return(0,c.jsx)(l.Z,{style:{color:n<0?"red":"inherit",fontSize:"0.875rem"},children:t?"".concat(t,": ").concat(n):n})}}}]);

@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "name": "hye_cot5km",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE326t_hong80008k80",
+        "Vitri_Km": "K80",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "H. Văn Giang",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.923131106526, 20.9498779588506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE326t_hong80008k85",
+        "Vitri_Km": "K85",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "H. Văn Giang",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.916706016109003, 20.909642812107599]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE330t_hong90008k90",
+        "Vitri_Km": "K90",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "H. Khoái Châu",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.935830969446997, 20.8781670574981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE330t_hong100008k100",
+        "Vitri_Km": "K100",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "H. Khoái Châu",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.952273814907997, 20.808610166996299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE330t_luoc105008k105",
+        "Vitri_Km": "K105",
+        "Ten_tuyen": "Tả Hồng(đê ngoài Nghi Xuyên)",
+        "Thuoc_huyen": "H. Khoái Châu",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.972400422052004, 20.7701777369852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE330t_hong95008k95",
+        "Vitri_Km": "K95",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "H. Khoái Châu",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.925869765978007, 20.841663237924401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE330t_hong105008k105",
+        "Vitri_Km": "K105",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "H. Khoái Châu",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.974860797966002, 20.771091046741699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE331t_hong110008k110",
+        "Vitri_Km": "K110",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "H. Kim Động",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.985720859639997, 20.729171067312901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE331t_hong115008k115",
+        "Vitri_Km": "K115",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "H. Kim Động",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.032360038937995, 20.716888272031301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE323t_hong125008k125",
+        "Vitri_Km": "K125",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "TX. Hưng Yên",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.047467748266001, 20.647715465295601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE323t_hong120008k120",
+        "Vitri_Km": "K120",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "TX. Hưng Yên",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.054502670863997, 20.685060239834701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE332t_hong133+050008k133+050",
+        "Vitri_Km": "K133+050",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "H. Tiên Lữ",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.107574022232001, 20.628111548988901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE323t_hong130008k130",
+        "Vitri_Km": "K130",
+        "Ten_tuyen": "Tả Hồng",
+        "Thuoc_huyen": "TX. Hưng Yên",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.081175099416996, 20.626094273589501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE332t_luoc5008k5",
+        "Vitri_Km": "K5",
+        "Ten_tuyen": "Tả Luộc",
+        "Thuoc_huyen": "H. Tiên Lữ",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.131703587595993, 20.658761670012499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE332t_luoc10008k10",
+        "Vitri_Km": "K10",
+        "Ten_tuyen": "Tả Luộc",
+        "Thuoc_huyen": "H. Tiên Lữ",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.177163874044993, 20.658891657189599]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE333t_luoc15008k15",
+        "Vitri_Km": "K15",
+        "Ten_tuyen": "Tả Luộc",
+        "Thuoc_huyen": "H. Phù Cừ",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.217767359088995, 20.657789024939198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE333t_luoc20008k20",
+        "Vitri_Km": "K20",
+        "Ten_tuyen": "Tả Luộc",
+        "Thuoc_huyen": "H. Phù Cừ",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.244738237348002, 20.686724504884701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "ID": "HYE332t_luoc0008k0",
+        "Vitri_Km": "K0",
+        "Ten_tuyen": "Tả Luộc",
+        "Thuoc_huyen": "H. Tiên Lữ",
+        "Thuoc_tinh": "Hưng Yên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.107574022232001, 20.628111548988901]
+      }
+    }
+  ]
+}
